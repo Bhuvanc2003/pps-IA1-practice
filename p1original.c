@@ -1,5 +1,5 @@
 #include<stdio.h>
-int input()
+int input()//use Pass by reference
 {
   int a;
   printf("enter a value : ");
